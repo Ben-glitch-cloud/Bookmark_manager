@@ -6,7 +6,7 @@ Revising work over the weekend.
 
 #### flow chart of user #### 
 
-![](Desktop/Projects_Makes/week-4/images/Flow_chart.png)
+![](images/ Flow_chart.png)
 
 #### User story one ####  
 
