@@ -6,8 +6,8 @@ Revising work over the weekend.
 
 #### flow chart of user #### 
 
-![](images/Flow_chart.png)
 
+ 
 #### User story one ####  
 
 ``` 
