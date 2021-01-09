@@ -6,7 +6,7 @@ Revising work over the weekend.
 
 #### flow chart of user #### 
 
-![](images/Screenshot 2021-01-09 at 14.51.22)
+
 
 #### User story one ####  
 
