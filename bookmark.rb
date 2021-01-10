@@ -1,6 +1,7 @@
 require 'sinatra'  
 require 'capybara' 
-require './lib/bookmarks'
+require './lib/bookmarks' 
+
 
 class Bookmark < Sinatra::Base
     
@@ -8,8 +9,8 @@ class Bookmark < Sinatra::Base
 
     enable :sessions
 
-    get '/bookmarks' do   
-        @bookmarks = Bookmarks.all 
+    get '/bookmarks' do    
+        @bookmarks = Bookmarks.all
         erb :bookmarks
     end   
 

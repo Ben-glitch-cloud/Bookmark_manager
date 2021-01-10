@@ -10,4 +10,6 @@ gem 'rspec'
 gem 'capybara' 
 gem 'sinatra' 
 gem 'selenium-webdriver'
-gem 'rails_helper'
+gem 'rails_helper' 
+gem 'pg' 
+
